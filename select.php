@@ -12,5 +12,6 @@
 	echo json_encode($json);
 	
 	mysqli_close($con);
+
 	
 ?>
